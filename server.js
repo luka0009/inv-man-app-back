@@ -22,6 +22,7 @@ app.use(
       "http://127.0.0.1:5173",
       "https://full-stack-inventory-management-app-luka0009.vercel.app/",
       "https://inv-man-app-front-luka0009.vercel.app/",
+      'https://inv-man-app-front.vercel.app',
     ],
     credentials: true,
   })
